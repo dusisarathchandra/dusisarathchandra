@@ -1,6 +1,9 @@
 # ✨ Welcome ✨
 
-Hi, I’m @dusisarathchandra 👋, a tech enthusiast with 12+ years of experience driving innovation in Multi Cloud Cost Insights & Analytics, FinOps, Big Data, and Microservices, with a passion for contributing to open-source initiatives.
+## Hi, I’m @dusisarathchandra 👋, 
+[![Static Badge](https://img.shields.io/badge/dusisarathchandra-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dusisarathchandra/)
+
+A tech enthusiast with 12+ years of experience driving innovation in Multi Cloud Cost Insights & Analytics, FinOps, Big Data, and Microservices, with a passion for contributing to open-source initiatives.
 
 ## :pushpin: Latest pet project
 Click on the gif to access the app
