@@ -24,3 +24,7 @@ For more details visit the [Github Repository](https://github.com/dusisarathchan
 dusisarathchandra/dusisarathchandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Patents
+1. [Technology for computing resource liaison](https://patents.google.com/patent/US11297065B2/en)
+2. [Data Item Transfer Between Mobile Devices](https://patents.google.com/patent/US20200245130A1/en)
